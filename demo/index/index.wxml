@@ -1,0 +1,12 @@
+<view class="container">
+  <wemark md="{{md}}" link highlight type="wemark"></wemark>
+</view>
+
+
+<!-- <view class="charts-box">
+  <qiun-wx-ucharts 
+    type="{{type}}"
+    opts="{{opts}}"
+    chartData="{{chartData}}"
+  />
+</view> -->

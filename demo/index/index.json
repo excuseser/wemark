@@ -1,0 +1,6 @@
+{
+	"usingComponents": {
+    "wemark": "../wemark/wemark",
+    "qiun-wx-ucharts": "@qiun/wx-ucharts/index"
+	}
+}

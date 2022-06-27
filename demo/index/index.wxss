@@ -1,0 +1,4 @@
+.container{
+	padding:20px;
+}
+@import 'index-wxa-auto-dark.wxss'

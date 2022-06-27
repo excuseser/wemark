@@ -1,0 +1,6 @@
+{
+    "component": true,
+    "usingComponents": {
+      "qiun-wx-ucharts": "@qiun/wx-ucharts/index"
+    }
+}
